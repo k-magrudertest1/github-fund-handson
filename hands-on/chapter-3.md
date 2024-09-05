@@ -7,7 +7,7 @@
 
 ![3-1.jpg](./img/3/3-1.jpg)
 
-2. 「Repository name」に `github-training` と入力します。
+2. 「Repository name」に `github-training` と入力します。(Owrnerは、ご自身のユーザスペースorユーザアカウントを選択してください。)
 3. 「Public」が選択されていることを確認します。
 4. 「Initialize this repository with:」の、「Add a README file」にチェックを入れます。
 5. 「Create repository」をクリックします。
