@@ -77,7 +77,7 @@ jobs:
 ![8-7.jpg](./img/8/8-7.jpg)
 
 20. 画面右側の「Development」をクリックし、「GitHub Actionsの作成」をクリックします。(チェックが入ったら、カーソルを外に移動しクリックします)
-*これにより、作成したpull requestがクローズされると、「tagの作成とreleaseの作成」というissueが自動的にDoneステータスに移動します。(あとで確認します)
+*これにより、作成したpull requestがクローズされると、「GitHub Actionsの作成」というissueが自動的にDoneステータスに移動します。(あとで確認します)
 
 ![8-8.jpg](./img/8/8-8.jpg)
 
