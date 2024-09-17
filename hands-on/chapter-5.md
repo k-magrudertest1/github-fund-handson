@@ -14,7 +14,7 @@
 
 ![5-2.jpg](./img/5/5-2.jpg)
 
-6. 先の手順同様に、`タグの作成とリリースの作成` と `GitHub Pagesの作成` と `GitHub Actionsの作成` という名前のissueを3つ作成します。
+6. 先の手順同様に、`tagの作成とreleaseの作成` と `GitHub Pagesの作成` と `GitHub Actionsの作成` という名前のissueを3つ作成します。
 
 ## 2. Projectボードの作成
 
