@@ -1,15 +1,22 @@
+## **この章のハンズオンは、オプションとなります。**
+
+この章のハンズオンは、一部第5章のハンズオンを実施していることを前提としています。
+第5章のハンズオンを実施していない場合、`(オプション)` と記載されている手順は飛ばしてください。
+
+---
+
 ここでは、ブランチを作成し、GitHub Actionsを定義したYamlファイルを追加、pull requestの作成、作成したbranchに実施した変更内容をmainにマージブランチへマージまでを行います。(先の演習で作成したissueとprojectを用いてタスクを管理/実施するイメージも学んでいきます) 
 *ハンズオンの手順の参照とハンズオンの実施は、ブラウザで別タブか別ウィンドウを開いて行うことをおすすめします。
 
 ## 1. branchを作成し、GitHub Actionsを定義したYamlファイルを追加、pull requestの作成とマージ
 
-1. 「github-training」というRepositoryで作業します。
-2. 画面の左上タブの「Project」をクリックします。
-3. 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
+1. `(オプション)` 「github-training」というRepositoryで作業します。
+2. `(オプション)` 画面の左上タブの「Project」をクリックします。
+3. `(オプション)` 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
 
 ![8-1.jpg](./img/8/8-1.jpg)
 
-4. 「Todo」ステータスに存在する「GitHub Actionsの作成」というissueを、「In progress」にドラッグ&ドロップします。
+4. `(オプション)` 「Todo」ステータスに存在する「GitHub Actionsの作成」というissueを、「In progress」にドラッグ&ドロップします。
 
 ![8-2.jpg](./img/8/8-2.jpg)
 
@@ -76,7 +83,7 @@ jobs:
 
 ![8-7.jpg](./img/8/8-7.jpg)
 
-20. 画面右側の「Development」をクリックし、「GitHub Actionsの作成」をクリックします。(チェックが入ったら、カーソルを外に移動しクリックします)
+20. `(オプション)` 画面右側の「Development」をクリックし、「GitHub Actionsの作成」をクリックします。(チェックが入ったら、カーソルを外に移動しクリックします)
 *これにより、作成したpull requestがクローズされると、「GitHub Actionsの作成」というissueが自動的にDoneステータスに移動します。(あとで確認します)
 
 ![8-8.jpg](./img/8/8-8.jpg)
@@ -102,9 +109,9 @@ jobs:
 
 ![8-13.jpg](./img/8/8-13.jpg)
 
-27. 「Todo list」Projectの画面に戻ります。
-28. 「In progress」ステータスに存在する「GitHub Actionsの作成」というissueが、「Done」に既に移動していることが確認できます。(先述の通り、先ほど作成したpull requestがクローズされたため、「GitHub Actionsの作成」というissueが自動的にDoneステータスに移動したことがわかります。)
+27. `(オプション)` 「Todo list」Projectの画面に戻ります。
+28. `(オプション)` 「In progress」ステータスに存在する「GitHub Actionsの作成」というissueが、「Done」に既に移動していることが確認できます。(先述の通り、先ほど作成したpull requestがクローズされたため、「GitHub Actionsの作成」というissueが自動的にDoneステータスに移動したことがわかります。)
 
 ![8-14.jpg](./img/8/8-14.jpg)
 
-29. これで、「Todo list」に存在したissue(タスク)をすべて完了しました。
+29. `(オプション)` これで、「Todo list」に存在したissue(タスク)をすべて完了しました。

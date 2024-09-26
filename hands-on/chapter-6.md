@@ -1,16 +1,23 @@
+## **この章のハンズオンは、オプションとなります。**
+
+この章のハンズオンは、一部第5章のハンズオンを実施していることを前提としています。
+第5章のハンズオンを実施していない場合、`(オプション)` と記載されている手順は飛ばしてください。
+
+---
+
 ここでは、Wikiの作成を行います。(先の演習で作成したissueとprojectを用いてタスクを管理/実施するイメージも学んでいきます)    
 また、GitHub Pagesの作成を行います。  
 *ハンズオンの手順の参照とハンズオンの実施は、ブラウザで別タブか別ウィンドウを開いて行うことをおすすめします。
 
 ## 1. Wikiの作成
 
-1. 「github-training」というRepositoryで作業します。
-2. 画面の左上タブの「Project」をクリックします。
-3. 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
+1. `(オプション)` 「github-training」というRepositoryで作業します。
+2. `(オプション)` 画面の左上タブの「Project」をクリックします。
+3. `(オプション)` 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
 
 ![6-1.jpg](./img/6/6-1.jpg)
 
-4. 「Todo」ステータスに存在する「Wikiの作成」というissueを、「In progress」にドラッグ&ドロップします。
+4. `(オプション)` 「Todo」ステータスに存在する「Wikiの作成」というissueを、「In progress」にドラッグ&ドロップします。
 
 ![6-2.jpg](./img/6/6-2.jpg)
 
@@ -50,19 +57,19 @@ Wiki is a repository feature that allows users to create and share content in a 
 
 11. 作成したWikiページが確認できればokです。
 
-12. 「Todo list」Projectの画面に戻り、「In progress」ステータスに存在する「Wikiの作成」というissueを、「Done」にドラッグ&ドロップします。
+12. `(オプション)` 「Todo list」Projectの画面に戻り、「In progress」ステータスに存在する「Wikiの作成」というissueを、「Done」にドラッグ&ドロップします。
 
 ![6-5.jpg](./img/6/6-5.jpg)
 
 ## 2. GitHub Pagesの作成
 
-1. 「github-training」というRepositoryで作業します。
-2. 画面の左上タブの「Project」をクリックします。
-3. 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
+1. `(オプション)` 「github-training」というRepositoryで作業します。
+2. `(オプション)` 画面の左上タブの「Project」をクリックします。
+3. `(オプション)` 「Todo list」をクリックします。(ブラウザで別タブか別ウィンドウを開くことをおすすめします)
 
 ![6-6.jpg](./img/6/6-6.jpg)
 
-4. 「Todo」ステータスに存在する「GitHub Pagesの作成」というissueを、「In progress」にドラッグ&ドロップします。
+4. `(オプション)` 「Todo」ステータスに存在する「GitHub Pagesの作成」というissueを、「In progress」にドラッグ&ドロップします。
 
 ![6-7.jpg](./img/6/6-7.jpg)
 
@@ -102,6 +109,6 @@ My first GitHub Pages!
 
 ![6-12.jpg](./img/6/6-12.jpg)
 
-19. 「Todo list」Projectの画面に戻り、「In progress」ステータスに存在する「GitHub Pagesの作成」というissueを、「Done」にドラッグ&ドロップします。
+19. `(オプション)` 「Todo list」Projectの画面に戻り、「In progress」ステータスに存在する「GitHub Pagesの作成」というissueを、「Done」にドラッグ&ドロップします。
 
 ![6-13.jpg](./img/6/6-13.jpg)

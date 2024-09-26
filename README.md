@@ -4,8 +4,8 @@
 
 [3. OrganizationとRepository-ハンズオン](./hands-on/chapter-3.md)  
 [4. branchとpull request-ハンズオン](./hands-on/chapter-4.md)  
-[5. IssueとProject-ハンズオン](./hands-on/chapter-5.md)  
-[6. WikiとGitHub Pages-ハンズオン](./hands-on/chapter-6.md)  
+[5. (オプション)IssueとProject-ハンズオン](./hands-on/chapter-5.md)  
+[6. (オプション)WikiとGitHub Pages-ハンズオン](./hands-on/chapter-6.md)  
 [7. tagとrelease-ハンズオン](./hands-on/chapter-7.md)  
 [8. GitHub Actions-ハンズオン](./hands-on/chapter-8.md)  
 
